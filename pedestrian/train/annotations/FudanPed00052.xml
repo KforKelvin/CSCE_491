@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PNG</folder>
+	<filename>FudanPed00052.png</filename>
+	<path>/home/sol/Desktop/PNG/FudanPed00052.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>163</ymin>
+			<xmax>326</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
