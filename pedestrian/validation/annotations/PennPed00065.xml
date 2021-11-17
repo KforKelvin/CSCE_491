@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PNG</folder>
+	<filename>PennPed00065.png</filename>
+	<path>/home/sol/Desktop/PNG/PennPed00065.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>14</ymin>
+			<xmax>152</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
